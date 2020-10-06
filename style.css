@@ -1,0 +1,12 @@
+.ui.borderless.menu {
+    background-color: #f5f5f5;
+    box-shadow: none;
+    border: none;
+}
+
+murphys-background {
+    background: url("");
+    background-size: cover;
+    height: 500px;
+
+}
